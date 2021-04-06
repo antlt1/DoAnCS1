@@ -1,0 +1,63 @@
+header
+{
+ margin: 0;
+}
+li{
+  list-style: none;
+}
+.logo-main img
+{
+  width: 150px;
+  height: 50px;
+  display: inline-block;
+}
+.nav-bar a{
+  display: inline-block;
+}
+.nav-bar a{
+  color: white;
+  font-size: 25px;
+}
+.left-bar{display: inline-block;float: left;margin-right: 10px;height: 500px;}
+.all-page-admin{width: 100%;background-color: white;}
+.control-admin{display: inline-block;}
+/* bản menu tạo post tin tức */
+
+
+/* gạch chân mặt định */
+.gachchan{
+ border: 0.5px solid #c3c3c3;
+ background-color: #c3c3c3;
+}
+
+/* mục tin tức */
+.page_news{
+  margin-left:  1%;
+  margin-right: 1%;
+  margin-top: 2%;
+  width: 70%;
+}
+/* thanh tin tức */
+.tentintuc{
+  word-break: break-word;
+  font-size: 15px;
+}
+.tin img{
+  width: 100px;
+  height : 100px;
+  display: inline-block;
+  float: left;
+}
+.tin a{
+  margin-left: 6%;
+  font-size: 10px;
+  display: inline;
+  word-break: break-word;
+}
+.tinngan{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+/*  control  delete from term :D */
